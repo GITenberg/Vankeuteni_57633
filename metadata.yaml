@@ -1,0 +1,31 @@
+_repo: Vankeuteni_57633
+_version: 0.0.1
+alternative_title: Mie prigioni. Finnish
+contributor:
+  translator:
+    agent_name: Palmén, Hjalmar F.
+    gutenberg_agent_id: '49515'
+    url: http://www.gutenberg.org/2009/agents/49515
+creator:
+  author:
+    agent_name: Pellico, Silvio
+    birthdate: 1789
+    deathdate: 1854
+    gutenberg_agent_id: '1025'
+    url: http://www.gutenberg.org/2009/agents/1025
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Silvio_Pellico
+    - http://en.wikipedia.org/wiki/Silvio_Pellico
+description: ''
+gutenberg_issued: '2018-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57633'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Vankeuteni
+url: http://www.gutenberg.org/ebooks/57633
